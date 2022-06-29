@@ -1,2 +1,2 @@
 # pet.proj
-my pet projects
+This repository is under construction
