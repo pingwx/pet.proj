@@ -1,2 +1,1 @@
-# pet.proj
-This repository is under construction
+This repository contains my pet projects completed beyond Ya.Practicum
